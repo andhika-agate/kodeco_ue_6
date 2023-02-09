@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin.uasset",
+				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/BP_Muffin.uasset",
+				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Blueprints/ABP_Muffin.uasset",
+				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/ABP_Muffin.uasset",
+				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/BS_IdleWalk.uasset"
+			]
+		}
+	]
+}
