@@ -9,7 +9,13 @@
 				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/BP_Muffin.uasset",
 				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Blueprints/ABP_Muffin.uasset",
 				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/ABP_Muffin.uasset",
-				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/BS_IdleWalk.uasset"
+				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/BS_IdleWalk.uasset",
+				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Death.uasset",
+				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Fall.uasset",
+				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Idle.uasset",
+				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Jump.uasset",
+				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Skeleton.uasset",
+				"D:/Projects/[AGATE]/Kodeco Unreal Training/kodeco_ue_6/SkywardMuffinStarter/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Walk.uasset"
 			]
 		}
 	]
